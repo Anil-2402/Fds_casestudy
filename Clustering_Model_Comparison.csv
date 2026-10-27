@@ -1,0 +1,6 @@
+Algorithm,Clusters,Noise_Points,Silhouette_Score
+K-Means (K=4),4,0,0.3092
+Hierarchical (Ward),4,0,0.3081
+Hierarchical (Complete),4,0,0.5986
+Hierarchical (Average),4,0,0.7731
+"DBSCAN (eps=2.5, min_samples=5)",3,98,0.5604
