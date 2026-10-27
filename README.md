@@ -96,8 +96,3 @@ The repository includes the analysis notebooks, datasets, visualisation images, 
 
 - Cortez, P., Cerdeira, A., Almeida, F., Matos, T., and Reis, J. (2009). *Modeling wine preferences by data mining from physicochemical properties*. Decision Support Systems, 47(4), 547–553. [Dataset information at the UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/186/wine+quality).
 - EastWest Airlines customer data: `EastWestAirlines.xlsx`, included in this project repository.
-- scikit-learn documentation: https://scikit-learn.org/stable/
-
----
-
-*Fundamentals of Data Science — academic project repository.*
