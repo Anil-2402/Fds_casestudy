@@ -71,19 +71,6 @@ The repository includes the analysis notebooks, datasets, visualisation images, 
 - scikit-learn
 - openpyxl (for reading Excel workbooks)
 
-## How to Run
-
-1. Clone or download this repository.
-2. Install Python 3 and Jupyter Notebook, or open the notebooks in a compatible notebook environment.
-3. Install the required libraries:
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn openpyxl jupyter
-   ```
-
-4. Open `clusteringanalysis.ipynb` and run the cells from top to bottom. Keep `EastWestAirlines.xlsx` in the same working directory as the notebook, or update the file path in the loading cell.
-5. Extract `wine+quality.zip` and make sure the red and white CSV files are available. In `winequality.ipynb`, update the CSV paths in the loading cells to match where the extracted files are stored. The CSV files are semicolon-separated, so use `sep=';'` when reading them.
-6. Run the notebook cells from top to bottom to reproduce the analysis and figures. Some clustering metrics may depend on the data, preprocessing, and selected DBSCAN parameters; rerun the notebook to obtain the results for your environment.
 
 ## Notes and Limitations
 
